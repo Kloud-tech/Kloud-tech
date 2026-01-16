@@ -14,7 +14,7 @@ Here are the projects I am currently most proud of, ranging from hackathons to d
     * *What it is:* A decentralized application built on the **Sui Network**. We focused on leveraging the Sui Move language to create a fast and secure financial prototype in under 48h.
     * *Tech:* Sui Move, Blockchain.
 
-* ** [erc721-ux-solution](LIEN_VERS_LE_REPO)**
+* ** [erc721-ux-solution](https://github.com/Kloud-tech/erc721-ux-solution)**
     * *Context:* Fintech Lab.
     * *What it is:* A technical implementation aimed at solving User Experience frictions often found in standard NFT (ERC721) transactions.
     * *Tech:* Solidity, Ethereum, Smart Contracts.
