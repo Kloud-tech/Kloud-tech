@@ -9,7 +9,7 @@ I specialize in **Blockchain technologies** and **System Programming**. I love b
 
 Here are the projects I am currently most proud of, ranging from hackathons to deep-dive technical coursework:
 
-* ** [SUI-HACKATON-DEVINCI-2025](LIEN_VERS_LE_REPO)**
+* ** [SUI-HACKATON-DEVINCI-2025](https://github.com/Kloud-tech/SUI-HACKATON-DEVINCI-2025)**
     * *Context:* Built during the 2025 De Vinci Hackathon.
     * *What it is:* A decentralized application built on the **Sui Network**. We focused on leveraging the Sui Move language to create a fast and secure financial prototype in under 48h.
     * *Tech:* Sui Move, Blockchain.
