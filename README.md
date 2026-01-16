@@ -32,6 +32,3 @@ Here are the projects I am currently most proud of, ranging from hackathons to d
 * **Interests:** DeFi (Decentralized Finance), Smart Contract Security, High-Performance Computing.
 * **School:** ESILV (Major in Fintech).
 
----
-
-Please feel free to explore these pinned repositories to see my coding style!
