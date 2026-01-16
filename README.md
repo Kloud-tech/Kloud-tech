@@ -15,12 +15,12 @@ Here are the projects I am currently most proud of, ranging from hackathons to d
     * *Tech:* Sui Move, Blockchain.
 
 * **💎 [erc721-ux-solution](LIEN_VERS_LE_REPO)**
-    * *Context:* Personal Project / Fintech Lab.
+    * *Context:* Fintech Lab.
     * *What it is:* A technical implementation aimed at solving User Experience frictions often found in standard NFT (ERC721) transactions.
     * *Tech:* Solidity, Ethereum, Smart Contracts.
 
 * **🦀 [RUST-TD-2025](LIEN_VERS_LE_REPO)**
-    * *Context:* Advanced Academic Coursework at ESILV.
+    * *Context:* Academic Coursework 
     * *What it is:* A collection of implementations focusing on **Rust** fundamentals: memory safety, concurrency, and system-level optimization.
     * *Tech:* Rust, Cargo.
 
