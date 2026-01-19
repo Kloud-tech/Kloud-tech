@@ -5,7 +5,7 @@ I specialize in **Blockchain technologies** and **System Programming**. I love b
 
 ---
 
-###  Featured Projects
+###  Projects
 
 Here are 3 projects I developed :
 
