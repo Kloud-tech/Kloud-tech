@@ -7,7 +7,7 @@ I specialize in **Blockchain technologies** and **System Programming**. I love b
 
 ###  Featured Projects
 
-Here are the projects I am currently most proud of, ranging from hackathons to deep-dive technical coursework:
+Here are 3 projects I developed :
 
 * ** [SUI-HACKATON-DEVINCI-2025](https://github.com/Kloud-tech/SUI-HACKATON-DEVINCI-2025)**
     * *Context:* Built during the 2025 De Vinci Hackathon.
@@ -29,6 +29,6 @@ Here are the projects I am currently most proud of, ranging from hackathons to d
 ### 🛠️ Technical Stack
 
 * **Languages:** Rust, Solidity, Move, Python.
-* **Interests:** DeFi (Decentralized Finance), Smart Contract Security, High-Performance Computing.
+* **Interests:** DeFi, Smart Contract Security, High-Performance Computing.
 * **School:** ESILV (Major in Fintech).
 
